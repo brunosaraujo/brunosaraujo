@@ -36,12 +36,12 @@ Sou graduado em Sistemas da Informação e possuo inglês técnico.
 ---
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.appapipinusername=brunosaraujo&repo=variavel&theme=dark)](https://github.com/brunosaraujo/cypress-actions-allure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoAraujoQA&repo=projeto1&theme=dark)](https://github.com/brunosaraujo/cypress-actions-allure)
 
 ---
 ### 🚀 Linguagens mais utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosaraujo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosaraujo&layout=compact&theme=dark)](https://github.com/brunosaraujo)
 
 ---
 ### 📞 Contato
