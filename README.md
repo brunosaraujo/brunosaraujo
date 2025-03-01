@@ -36,12 +36,18 @@ Sou graduado em Sistemas da Informação e possuo inglês técnico.
 ---
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoAraujoQA&repo=projeto1&theme=dark)](https://github.com/brunosaraujo/cypress-actions-allure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosaraujo&repo=cypress-actions-allure&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosaraujo&repo=shave-xp-cypress&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosaraujo&repo=qabt-qtruck&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosaraujo&repo=samuraibs-universo-cypress&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosaraujo&repo=buger-eats-cypress-discovery&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 🚀 Linguagens mais utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosaraujo&layout=compact&theme=dark)](https://github.com/brunosaraujo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosaraujo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 📞 Contato
